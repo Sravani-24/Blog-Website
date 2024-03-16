@@ -1,1 +1,1 @@
-# Blog-Website
+Coding Canvas Blog Website is a basic website created to showcase web development skills during an internship at CodersCave. It features sections like "Algorithm," "Code," and "Complexity," demonstrating their ability to create engaging content, implement algorithms, write clean code, and analyze computational complexity. Despite its simplicity, the website is user-friendly and incorporates responsive design principles, serving as a showcase of the interns' proficiency in web development.
